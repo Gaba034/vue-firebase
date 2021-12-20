@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-main>
+    <v-main style="padding : 15px 0px 12px">
       <router-view></router-view>
     </v-main>
   </v-app>
